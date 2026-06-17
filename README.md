@@ -79,12 +79,14 @@ Update database configuration in: src/main/resources/application.properties
 3. Create database expense_tracker
 4. Run ExpenseTrackerApplication.java
 5. Test APIs using Postman
-   
+
+## frontend repository
+https://github.com/Valvisanjana/expense-tracker-frontend.git
+
 ## Future Enhancements
 
 * Dashboard Analytics
 * Monthly Reports
-* Frontend Integration React
 
 ## Author
 
